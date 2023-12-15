@@ -2,9 +2,9 @@
 
 [![workflow](https://github.com/mrlannigan/asi-prompt/actions/workflows/node.js.yml/badge.svg)](https://github.com/mrlannigan/asi-prompt/actions/workflows/node.js.yml)
 
-Thank you again for the time and opportunity. I throughly enjoyed the conversation and this coding exercise.
+Thank you again for the time and opportunity. I thoroughly enjoyed the conversation and this coding exercise.
 
-If you would like to pull down this code and try it for yourself make sure you are using at least Node.js v18 or greater.
+If you would like to pull down this code and try it for yourself make sure you are using Node.js v18 or greater.
 
 ```shell
 $ npm install
